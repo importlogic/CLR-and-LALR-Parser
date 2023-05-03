@@ -7,7 +7,17 @@
 <img src="https://img.shields.io/badge/dependencies-gcc-orange" alt="GCC Badge"></a>
 </p>
 
-# CLR + LALR Parser Compiler Design Assignment Project
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Acknowledgements](#acknowledgements)
+* [Working](#working)
+* [Usage](#usage)
+* [Examples](#examples)
+* [Authors](#authors)
+
+
+# About the project
 
 This is a working example of CLR and LALR example. The program takes some grammar as input and creates a CLR parse table and a LALR parse table.
 
